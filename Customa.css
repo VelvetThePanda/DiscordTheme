@@ -1,0 +1,43 @@
+@import url("https://customa.gitlab.io/Customa-Discord/Base/modules.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/base.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/buttons.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/variables.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/selection.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/round.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Base/tooltips.m.css");
+ 
+@import url("https://customa.gitlab.io/Customa-Discord/Chat/betterBlockedMessages.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Chat/betterCompactMode.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Chat/betterFileTypes.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Chat/customEditIcon.m.css");
+
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/wrapperGuild.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/wrapperMember.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/customUserPopout.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/coloredChannelIcons.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/classicChannelSelect.m.css");
+@import url("https://customa.gitlab.io/Customa-Discord/Sidebar/classicStatusIndicator.m.css");
+
+
+
+@import url("https://customa.gitlab.io/Customa-Discord/Titlebar/restoreOldTitlebar.m.css");
+
+@import url("https://customa.gitlab.io/Customa-Discord/WIP/betterJumpLinks.m.css");
+/* @import url("https://customa.gitlab.io/Customa-Discord/Sidebar/wrapperChannel.m.css"); */
+
+@import url("https://customa.gitlab.io/Customa-Discord/Misc/customSettingsModal.m.css");
+
+
+:root{
+--ColAccentAlpha: #7289DA1A;
+--ColAccent: 	#7289DA;
+--ColBackground: #161616;
+--ColBackground2: #161616;
+--ColChannelList: #161616;
+--ColBTNBrand: 74, 144, 226;
+--ColBTNGreen: 0, 209, 101;
+--DisplayEmbedPill: solid;
+--DisplayLibraryMenu: none;
+--DisplayNitroMenu: none;
+--background-secondary: --var(--ColBackground);
+}
